@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-decision-forests
+pandas
+numpy
+seaborn
+matplotlib

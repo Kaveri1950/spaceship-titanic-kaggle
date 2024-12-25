@@ -1,0 +1,5 @@
+# Ignore the data directory (so it won't be uploaded to GitHub)
+data/
+
+# Ignore sensitive files (like Kaggle API key)
+*.json
